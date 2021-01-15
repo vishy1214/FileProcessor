@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*/.idea
+/bin
+/out
+/target
+*.iml
+/.idea
+/src/main/resources/input/xtra_large.txt
